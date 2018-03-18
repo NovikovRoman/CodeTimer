@@ -1,0 +1,20 @@
+{
+  "name": "noroman/codetimer",
+  "description": "Code timer",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "NovikovRoman",
+      "email": "service.for.roman@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "CodeTimer\\": "src/"
+    }
+  }
+}
